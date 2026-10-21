@@ -67,3 +67,6 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# similar open-source projects, shallow clones for reference only (2026-10-21)
+references/
